@@ -4,7 +4,6 @@
 
 Designed a **visual marketing poster using Canva** to represent Macca’s premium flagship restaurant concept.  
 The poster showcased the brand’s **luxurious and modern identity**, communicating exclusivity and quality through visual storytelling.
-the 
 
 ---
 
