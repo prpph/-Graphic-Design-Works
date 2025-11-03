@@ -26,5 +26,6 @@ These works highlight my **creative design**, **social impact communication**, a
 
 ### 🖋️ Author
 **Pyae Hein**  
-Business Analytics Graduate | Marketing & Graphic Design | BI Analyst | Data Analyst 
+Business Analytics Graduate | Marketing & Graphic Design | BI Analyst | Data Analyst |
+
 *Western Sydney University*
