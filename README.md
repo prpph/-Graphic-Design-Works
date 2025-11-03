@@ -4,7 +4,6 @@
 
 Designed a **visual marketing poster using Canva** to represent Macca’s premium flagship restaurant concept.  
 The poster showcased the brand’s **luxurious and modern identity**, communicating exclusivity and quality through visual storytelling.  
-The final poster reflects my creative direction, attention to design detail, and understanding of how visuals can shape consumer perception in branding.
 
 
 ---
@@ -27,5 +26,5 @@ These works highlight my **creative design**, **social impact communication**, a
 
 ### 🖋️ Author
 **Pyae Hein**  
-Business Analytics Graduate | Marketing & Data Strategy | Community Engagement  
+Business Analytics Graduate | Marketing & Graphic Design | BI Analyst | Data Analyst | 
 *Western Sydney University*
