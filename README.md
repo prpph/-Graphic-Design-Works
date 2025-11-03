@@ -1,13 +1,11 @@
 # 🎯 Portfolio Highlight – Marketing & Engagement Projects
 
 ## 🍔 Macca’s New Flagship Restaurant
-Developed a strategic marketing and design concept for **Macca’s premium flagship restaurant**, focusing on **market segmentation, positioning, and value proposition**.  
-This work demonstrates my ability to:
-- Translate consumer insights into actionable marketing strategies  
-- Conceptualize premium brand positioning through data-driven research  
-- Integrate product design and customer experience into a cohesive brand strategy  
 
-The project reflects strong analytical thinking, brand storytelling, and the ability to align business goals with creative design outcomes.
+Designed a **visual marketing poster using Canva** to represent Macca’s premium flagship restaurant concept.  
+The poster showcased the brand’s **luxurious and modern identity**, communicating exclusivity and quality through visual storytelling.  
+The final poster reflects my creative direction, attention to design detail, and understanding of how visuals can shape consumer perception in branding.
+
 
 ---
 
